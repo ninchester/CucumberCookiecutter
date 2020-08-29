@@ -1,0 +1,8 @@
+{
+	"project_name": "CucumberExample",
+	"test_runner_java_file_name": "TestRunner",
+	"steps_java_file_name": "TestSteps",
+	"feature_file_name": "login",
+	"java_version": "14",
+	"cucumber_version": "6.6.0"
+}
