@@ -1,6 +1,6 @@
 # CucumberCookiecutter
 ## Overview
-This is a [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html) project which generates a java maven project with Cucumber setup
+This is a [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html) project which generates a java maven project with [Cucumber](https://cucumber.io/) setup
 
 ## How to create a project
 ### Prerequisites
